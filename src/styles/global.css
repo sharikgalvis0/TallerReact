@@ -1,0 +1,7 @@
+@import url('./shadows.css');
+@import url('./NavMenu.css');
+@import url('./image.css');
+
+.main-screen{
+    background-color: rgb(119, 117, 117);
+}
